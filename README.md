@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ishaan72004
+- 👋 Hi, I’m @Ishaan Malhotra
 - 👀 I’m interested in cybersecurity and AI and Game development
-- 🌱 I’m currently learning cooding and AI
+- 🌱 I’m currently learning coding and AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: HE/HIM
