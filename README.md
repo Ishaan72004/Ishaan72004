@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ishaan Malhotra
-- 👀 I’m interested in cybersecurity and AI and Game development
+- 👀 I’m interested in cybersecurity and AI and app development
 - 🌱 I’m currently learning coding and AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
